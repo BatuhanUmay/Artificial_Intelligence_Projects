@@ -1,1 +1,1 @@
-# Artificial_Intelligence_Projects
+# Data-Science-for-Business-6-Real-world-Case-Studies
